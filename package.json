@@ -1,0 +1,19 @@
+{
+  "name": "alexcscn.lib",
+  "version": "1.0.0",
+  "description": "alex's personal js libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexcscn/alexcscn.lib.git"
+  },
+  "author": "alexcscn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexcscn/alexcscn.lib/issues"
+  },
+  "homepage": "https://github.com/alexcscn/alexcscn.lib#readme"
+}
