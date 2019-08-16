@@ -1,11 +1,10 @@
 # alex.lib
 
-[![npm version](https://img.shields.io/badge/npm-v1.0.1-orange?style=flat-square)](https://www.npmjs.org/package/alex.lib)
+[![npm version](https://img.shields.io/badge/npm-v1.0.2-orange?style=flat-square)](https://www.npmjs.org/package/alex.lib)
 [![build status](https://img.shields.io/badge/build-passing-green?style=flat-square)](https://travis-ci.org/axios/axios)
 [![install size](https://packagephobia.now.sh/badge?p=alex.lib)](https://packagephobia.now.sh/result?p=alex.lib)
 ![contact](https://img.shields.io/badge/qq-8187265-blue?style=flat-square)
 ![email](https://img.shields.io/badge/email-alex%40etechcctv.com-blue?style=flat-square)
-
 
 常用库文件
 
