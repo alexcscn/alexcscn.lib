@@ -1,6 +1,6 @@
 {
   "name": "alex.lib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "alex's personal js libraries",
   "main": "index.js",
   "scripts": {
