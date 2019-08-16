@@ -32,25 +32,11 @@ var text3 = alexlib.coding.reconvert('&#xe789;')
 ## Reference
 ### coding 
 > 中文与unicode之间的相互转换
-<table>
-    <tr>
-        <th>function</th>
-        <th>description</th>
-    </tr>
-    <tr>
-        <td>reconvert</td>
-        <td>从unicode编码的ascii字符串还原中文</td>
-    </tr>
-    <tr>
-        <td>tounicode</td>
-        <td>中文汉字转unicode</td>
-    </tr>
-    <tr>
-        <td>toascii</td>
-        <td>中文转换&#xxxx;格式的ascii串</td>
-    </tr>
-    <tr>
-        <td>unicode2ascii</td>
-        <td>unicode转换ascii串</td>
-    </tr>
-</table>
+
+Function | Description 
+--- | --- 
+reconvert | 从unicode编码的ascii字符串还原中文
+tounicode | 中文汉字转unicode
+toascii | 中文转换&#xxxx;格式的ascii串
+unicode2ascii | unicode转换ascii串
+
