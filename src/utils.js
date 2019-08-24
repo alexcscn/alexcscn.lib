@@ -12,12 +12,20 @@
 module.exports = {
     InitObjFromStrArr: (strArr, initVal='')=>{
         let obj = {};
-        if (!Array.isArray(strArr) || strArr.length===0)
+        if (typeof strArr === 'string' && strArr !== '')
+            strArr = strArr.split(',');
+        else if (!Array.isArray(strArr) || strArr.length===0)
             return obj;
-        for(let item of strArr) {
-            if (typeof item !== 'string' || item.length === 0 )
-                continue;
-            obj["item"] = initVal;
-        }
+        strArr.forEach((item,index)=> {
+            if (typeof item !== 'string' || item.trim().length === 0 )
+                return;
+            if (Array.isArray(initVal)) {
+                if (index <= initVal.length-1)
+                    obj[item.trim()] = initVal[index];
+                else
+                    obj[item.trim()] = null;
+            } else
+                obj[item.trim()] = initVal;
+        });
     }
 };
