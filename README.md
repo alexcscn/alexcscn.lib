@@ -1,7 +1,7 @@
 # alex.lib
 
-[![npm version](https://img.shields.io/badge/npm-v1.0.4-orange?style=flat-square)](https://www.npmjs.org/package/alex.lib)
-[![github](https://img.shields.io/badge/github-v1.0.4-green?style=flat-square)](https://github.com/alexcscn/alexcscn.lib)
+[![npm version](https://img.shields.io/badge/npm-v1.0.5-orange?style=flat-square)](https://www.npmjs.org/package/alex.lib)
+[![github](https://img.shields.io/badge/github-v1.0.5-green?style=flat-square)](https://github.com/alexcscn/alexcscn.lib)
 [![build status](https://img.shields.io/badge/build-passing-green?style=flat-square)](https://travis-ci.org/axios/axios)
 [![install size](https://packagephobia.now.sh/badge?p=alex.lib)](https://packagephobia.now.sh/result?p=alex.lib)
 ![contact](https://img.shields.io/badge/qq-8187265-blue?style=flat-square)
